@@ -37,7 +37,7 @@
 - layout: top-middle
   name: Amazon VA Skill Development on OpenWRT
   quote: >
-    Bringup of IPQ4019 board with <mark>OpenWRT</mark> and integrating Alexa on it
+    Bringup of IPQ4019 board with <mark>OpenWRT</mark> and integrating <mark>Alexa</mark> on it
   description: | # this will include new lines to allow paragraphs
     Cross Compiling OpenWRT (Customed Linux) for IPQ4019 and integrating AWS SDK as a module in the OpenWRT. Involved in design and development of Alexa skill named Lancy, provides the status of the EC2 servers.
 
@@ -45,8 +45,14 @@
 - layout: top-middle
   name: Implementation of I2C Device Driver
   quote: >
-    Implementation of <mark>I2C</mark> driver for RTC DS-1307
+    Implementation of <mark>I2C driver</mark> for RTC DS-1307
   description: | # this will include newi lines to allow paragraphs
     Involved in Designing, Development and Testing of I2C client drivers. Understanding the Datasheet for GPIO communication on RaspberryPi 3B+.
 
 
+- layout: top-middle
+  name: DNS Implementation
+  quote: >
+    Implemented the i<mark>DNS</mark> client and server programming
+  description: | # this will incilude newi lines to allow paragraphs
+    Gathering requirements from RFC 1035 also Involved in design and development of back-end part of the application. Created the database using hash technique to store the cache memory for IP-mapping.
