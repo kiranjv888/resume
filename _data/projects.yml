@@ -5,7 +5,7 @@
   quote: >
     Implemented Home controlled IOT application using <mark>BLE</mark>
   description: | # this will include new lines to allow paragraphs
-    Development of Home control application on QCA4020. Created a Home Automation service with characteristics that control end devices. Implemented persistence storage and fast connect procedure on QCA4020 by applying power optimization techniques.  
+    Development of Home control application on QCA4020 using BLE4.2. Created a Home Automation service with characteristics that control end devices. Implemented persistence storage and fast connect procedure on QCA4020 by applying power optimization techniques.  
 
 
 - layout: top-middle
@@ -13,7 +13,7 @@
   quote: >
     Customizing the Embedded images with <mark>Yocto-BSP</mark> for IoT applications
   description: | # this will include new lines to allow paragraphs
-    Building the image for IOT Applications and verifying the image readiness for the official release by building the Kernel Modules. Executing the test cases using python automation.
+    Building the image for IoT Applications and verifying the image readiness for the official release by building the Kernel Modules. Executing the test cases using python automation.
 
 
 - layout: top-middle
@@ -21,7 +21,7 @@
   quote: >
     Improving the launch performance of the native applications in Tizen
   description: | # this will include new lines to allow paragraphs
-    Implemented the idea of Light Weight Process for Application Launch Optimisation. Memory leak & Memory Consumption analysis using valgrind, massif visualizer and dlogs.   
+    Implemented the idea of Light Weight Process(LWP) for application launch optimisation. Memory leak & memory consumption analysis using valgrind, massif visualizer and dlogs.   
 
 
 - layout: top-middle
@@ -31,7 +31,7 @@
   quote: >
     Implemented a <mark>Machine learning</mark> application for object detection for Robot and to decide it's movement which can run on Snapdragon platforms.
   description: | # this will include new lines to allow paragraphs
-    Created a CNN and DeeplabV3 Segmentation model on Tensorflow Framework. Used NPE SDK to convert the machine learning model for Snapdragon platform compatibility. Improving the model perfomance by analysing the models using the SNPE Benchmarking Tools.
+    Created a CNN and DeeplabV3 Segmentation model on Tensorflow Framework. Used NPE SDK to convert the machine learning model for Snapdragon platform compatibility. Improving the model perfomance by analysing the models using the NPE Benchmarking Tools.
 
 
 - layout: top-middle
@@ -39,7 +39,7 @@
   quote: >
     Bringup of IPQ4019 board with <mark>OpenWRT</mark> and integrating <mark>Alexa</mark> on it
   description: | # this will include new lines to allow paragraphs
-    Cross Compiling OpenWRT (Customed Linux) for IPQ4019 and integrating AWS SDK as a module in the OpenWRT. Involved in design and development of Alexa skill named Lancy, provides the status of the EC2 servers.
+    Cross-compilation of OpenWRT(Customed Linux) for IPQ4019 and integrating AWS SDK as a module in the OpenWRT. Involved in design and development of Alexa skill named Lancy, provides the status of the EC2 servers.
 
 
 - layout: top-middle
@@ -55,4 +55,4 @@
   quote: >
     Implemented the i<mark>DNS</mark> client and server programming
   description: | # this will incilude newi lines to allow paragraphs
-    Gathering requirements from RFC 1035 also Involved in design and development of back-end part of the application. Created the database using hash technique to store the cache memory for IP-mapping.
+    Gathering requirements from RFC 1035, also involved in design and development of back-end part of the application. Created the database using hash technique to store the cache memory for IP-mapping.
