@@ -2,9 +2,15 @@
   company: Global Edge Soft Ltd.
   link: https://www.globaledgesoft.com
   job_title: Senior Software Engineer
-  dates: December 2015 - Present
+  dates: December 2015 - Jan 2021
   quote: >
     Making use of edge technologies to provide solutions to 21st century problems by using my analytical skills.
   description: | # this will include new lines to allow paragraphs
     Working as Senior Software Engineer to bring up technologies like Networking, Internet of Things (IoT) and Machine Learning on the smallest embedded devices and making devices smarter. Good knowledge on Character Driver Development, Mobile Application Profiling & Performance Optimization.
+
+- layout: left
+  company: Teradata.
+  link: https://www.teradata.in/
+  job_title: Senior Software Engineer
+  dates: Feb 2021 - Present
 
