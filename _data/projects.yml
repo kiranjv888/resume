@@ -1,4 +1,20 @@
 - layout: top-middle
+  name: Integrate OTF Support to Vantage Core with Native C/C++
+  quote: >
+    Designed and implemented Native <mark>OTF support</mark> in Teradata Vantage Core using <mark>C/C++</mark>
+  description: | # this will include new lines to allow paragraphs
+    Built the Table Properties module to parse metadata JSON and store it as a structured tree for downstream execution. Developed Manifest List/File processing modules to read Iceberg metadata, extract file and partition information, and pass it through the spool system for subsequent query steps. Integrated these components into the execution pipeline, improving metadata-driven filtering and enabling native reading of external tables.
+
+
+- layout: top-middle
+  name: Delta Lake Integration into the Vantage Core
+  quote: >
+    Designed and implemented <mark>Delta Lake integration</mark> into Teradata Vantage Core, enabling native ReadNOS support
+  description: | # this will include new lines to allow paragraphs
+    Executed spike work for multi-cloud compatibility across AWS, Azure, and GCP, validating object store access and Delta transaction log behavior. Built core modules to read Delta metadata, interpret commit logs, and enable metadata-driven data retrieval inside the Vantage execution pipeline.
+
+
+- layout: top-middle
   name: QC – QDN Home Control Application
   link: developer.qualcomm.com/project/home-control-qca402x
   github: globaledgesoft/home-control-with-secure-communication
