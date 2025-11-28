@@ -9,8 +9,12 @@
     Working as Senior Software Engineer to bring up technologies like Networking, Internet of Things (IoT) and Machine Learning on the smallest embedded devices and making devices smarter. Good knowledge on Character Driver Development, Mobile Application Profiling & Performance Optimization.
 
 - layout: left
-  company: Teradata.
+  company: Teradata
   link: https://www.teradata.in/
   job_title: Senior Software Engineer
   dates: Feb 2021 - Present
+  quote: >
+    Designing and implementing core system components in the Vantage Core database engine, focusing on native Open Table Format integration and Delta Lake support.
+  description: | # this will include new lines to allow paragraphs
+    At Teradata, I designed and implemented core system components in the Vantage Core database engine, focusing on native Open Table Format (OTF) integration and Delta Lake support. My work included building C/C++ modules for metadata parsing, manifest list/file processing, and table properties ingestion, enabling Vantage to interpret Iceberg metadata natively. I integrated these modules with Teradata's spool and execution pipeline so metadata could drive pruning, filtering, and downstream query operations. I also delivered Delta Lake ReadNOS capabilities, executing spike work for AWS, Azure, and GCP to validate transaction logs, schema evolution, and cloud object store compatibility. In addition to feature development, I resolved NOS-related stability issues, optimized metadata flows, and contributed to overall kernel reliability across lakehouse workloads.
 
