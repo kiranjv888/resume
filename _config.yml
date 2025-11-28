@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Jinka Venkata Sai Kiran
 title: Software Engineer and Content Writer 
 email: kiranjv888@outlook.com
-website: https://bit.ly/3fMA1Y4 
+website: http://bit.ly/4afV3Ob 
 
 # Social links
 twitter_username: saikiranjv
@@ -22,9 +22,7 @@ linkedin_username: sai-kiran-jv-028609a2
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Kiran and I'm a senior software engineer. As well as design and develpment of embedded application development I also have experience in board bringup, machine learning and performance optimization. I have worked with different teams gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>Linux Internals</mark>, <mark>Networking</mark> and <mark>Food Diet</mark>
+  Senior Software Engineer with 10 years of experience in distributed systems, DBMS kernel development, Open Table Formats (Iceberg/Delta), cloud integration, IoT systems, and AI-driven automation. Strong expertise in C/C++, Metadata engines, Parquet readers, NOS integration, and Agentic AI workflows leveraging RAG to enhance engineering intelligence. Proven ability to design large-scale data-platform components, lead modules, and deliver high-performance features.
 
 # Experience Section
 # experience_title: Experience
