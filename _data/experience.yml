@@ -6,7 +6,7 @@
   quote: >
     Making use of edge technologies to provide solutions to 21st century problems by using my analytical skills.
   description: | # this will include new lines to allow paragraphs
-    Working as Senior Software Engineer to bring up technologies like Networking, Internet of Things (IoT) and Machine Learning on the smallest embedded devices and making devices smarter. Good knowledge on Character Driver Development, Mobile Application Profiling & Performance Optimization.
+    Worked as a Senior Software Engineer developing embedded solutions across Networking, IoT, and ML domains on Qualcomm platforms. Designed and implemented firmware and device-level software to enable connectivity, BLE services, persistent storage, and performance-optimized workflows on resource-constrained embedded devices. Built and optimized character drivers, analyzed system behavior, and applied profiling techniques to improve performance, responsiveness, and stability. Delivered ML-based features on Snapdragon SoCs, deploying CNN and segmentation models using SNPE to make edge devices smarter and more autonomous.
 
 - layout: left
   company: Teradata
